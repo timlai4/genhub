@@ -4,10 +4,6 @@ Hsal:
     clade: ant
     source: refseq
     branch: invertebrate
-    accession: GCF_000147195.1
-    build: HarSal_1.0
-    checksums:
-        gdna: 73b508cf0a0f7905b2fc46d0afef451b8802f45d
-        gff3: d84e0f5571281ed01cec6b0e8c9ad90dfc2014fe
-        prot: d3acaaf687a8b098728ea8f235f9a64a7c3d24ac
-    description: HarSal_1.0 from BGI-Shenzhen
+    accession: GCF_003227715.1
+    build: Hsal_v8.5
+    description: Hsal_v8.5 from University of Pennsylvania
