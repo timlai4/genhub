@@ -4,10 +4,6 @@ Cflo:
     clade: ant
     source: refseq
     branch: invertebrate
-    accession: GCF_000147175.1
-    build: CamFlo_1.0
-    checksums:
-        gdna: 389d8de5a0a8a43b91ce51d5d9c22cbf5e7b779f
-        gff3: 48d0ce0eb9919c52d7c3cba61bf972a56b8844ff
-        prot: ebc8f0000580f6841a3c1d82057811896267cb8a
-    description: CamFlo_1.0 from BGI-Shenzhen
+    accession: GCF_003227725.1
+    build: Cflo_v7.5
+    description: CamFlo_1.0 from University of Pennsylvania
