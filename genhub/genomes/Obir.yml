@@ -1,14 +1,10 @@
-Cbir:
-    species: Cerapachys biroi
+Obir:
+    species: Ooceraea biroi
     common: clonal raider ant
     clade: ant
     source: refseq
     branch: invertebrate
-    accession: GCF_000611835.1
-    build: CerBir1.0
-    checksums:
-        gdna: c175569906b4e7d92c011e11ec4300cf7db29dda
-        gff3: 7cb635048655ae0e4127104d014e7dc4a441153c
-        prot: a8cb222d8bf48c6759e843071308519a719392a1
-    description: CerBir1.0 from BGI-Shenzhen
+    accession: GCF_003672135.1
+    build: Obir_v5.4
+    description: Obir_v5.4 from The Rockefeller University
     known_failing: 'missing'
