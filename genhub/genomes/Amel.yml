@@ -6,14 +6,10 @@ Amel:
         - honeybee
     source: refseq
     branch: invertebrate
-    accession: GCF_000002195.4
-    build: Amel_4.5
+    accession: GCF_003254395.2
+    build: Amel_HAv3.1
     annotfilter:
         - NC_001566.1
     seqfilter:
         - NC_001566.1
-    checksums:
-        gdna: d301a875b9cd8320eca1c31cb9ebfd4f79edf7ed
-        gff3: 8d111e3f4cbca27094b4bc5c9846c3d1562e10d9
-        prot: e485036bfe47c69dbeb13e32537cacbb4574c787
-    description: Amel_4.5 from HGSC@Baylor
+    description: Amel_HAv3.1 from Uppsala University
